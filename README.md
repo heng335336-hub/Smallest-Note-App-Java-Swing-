@@ -28,7 +28,7 @@ A tiny notepad application built with Java Swing.
 1. Clone the repository
 
 ```bash
-[git clone https://github.com/your-username/your-repository.git](https://github.com/heng335336-hub/Smallest-Note-App-Java-Swing-.git)
+https://github.com/heng335336-hub/Smallest-Note-App-Java-Swing-.git
 ```
 
 2. Open the project in IntelliJ IDEA
