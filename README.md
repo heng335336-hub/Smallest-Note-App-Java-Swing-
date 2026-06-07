@@ -1,4 +1,4 @@
-# 📝 The Smallest Notepad in the World :)))
+# 📝 The Smallest Notepad in the World :) (!!!Our big note App is in develope)
 
 A tiny notepad application built with Java Swing.
 
