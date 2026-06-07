@@ -35,10 +35,6 @@ A tiny notepad application built with Java Swing.
 
 3. Run the main class
 
-## 📸 Screenshot
-
-_Add screenshots here._
-
 ## 🎯 Goal
 
 This project was created to practice Java desktop application development with Swing and learn GUI programming.
